@@ -38,4 +38,3 @@ build/
 .DS_Store
 
 **/src/**/soluce/
-**/src/test/java/fr/baldir/kata/soluce/
